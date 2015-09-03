@@ -6,6 +6,8 @@
 	<version>1.0.0-SNAPSHOT</version>
 	<name>MineChain-Base</name>
 	<properties>
+		<repository-owner>MienChain</repository-owner>
+		<repository-name>MineChain-Base</repository-name>
 		<github.global.server>github</github.global.server>
 	</properties>
 	<distributionManagement>
@@ -20,7 +22,7 @@
 			<plugin>
 				<groupId>com.github.github</groupId>
 				<artifactId>site-maven-plugin</artifactId>
-				<version>0.11</version>
+				<version>0.12</version>
 				<configuration>
 					<message>Maven artifacts for ${project.version}</message>
 					<noJekyll>true</noJekyll>
