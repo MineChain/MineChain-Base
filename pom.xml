@@ -6,6 +6,8 @@
 	<version>1.0.0-SNAPSHOT</version>
 	<name>MineChain-Base</name>
 	<properties>
+		<repository-owner>MienChain</repository-owner>
+		<repository-name>MineChain-Base</repository-name>
 		<github.global.server>github</github.global.server>
 	</properties>
 	<distributionManagement>
@@ -29,8 +31,8 @@
 					<includes>
 						<include>**/*</include>
 					</includes>
-					<repositoryName>MineChain-Base</repositoryName>
-					<repositoryOwner>MineChain</repositoryOwner>
+					<repositoryName>${repository-name}</repositoryName>
+					<repositoryOwner>${repository-owner}</repositoryOwner>
 				</configuration>
 				<executions>
 					<execution>
