@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata modelVersion="1.1.0">
-  <groupId>me.theinfobug</groupId>
+  <groupId>io.github.minechain.base</groupId>
   <artifactId>MineChain-Base</artifactId>
   <version>1.0.0-SNAPSHOT</version>
   <versioning>
     <snapshot>
-      <timestamp>20150903.220640</timestamp>
+      <timestamp>20150903.221154</timestamp>
       <buildNumber>1</buildNumber>
     </snapshot>
-    <lastUpdated>20150903220640</lastUpdated>
+    <lastUpdated>20150903221154</lastUpdated>
     <snapshotVersions>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>1.0.0-20150903.220640-1</value>
-        <updated>20150903220640</updated>
+        <value>1.0.0-20150903.221154-1</value>
+        <updated>20150903221154</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>1.0.0-20150903.220640-1</value>
-        <updated>20150903220640</updated>
+        <value>1.0.0-20150903.221154-1</value>
+        <updated>20150903221154</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>

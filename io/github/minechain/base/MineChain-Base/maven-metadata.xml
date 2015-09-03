@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
-  <groupId>me.theinfobug</groupId>
+  <groupId>io.github.minechain.base</groupId>
   <artifactId>MineChain-Base</artifactId>
   <versioning>
     <versions>
       <version>1.0.0-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20150903220641</lastUpdated>
+    <lastUpdated>20150903221154</lastUpdated>
   </versioning>
 </metadata>
