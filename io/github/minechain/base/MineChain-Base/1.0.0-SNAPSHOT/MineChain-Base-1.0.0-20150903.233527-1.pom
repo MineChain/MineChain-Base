@@ -6,8 +6,6 @@
 	<version>1.0.0-SNAPSHOT</version>
 	<name>MineChain-Base</name>
 	<properties>
-		<repository-owner>MienChain</repository-owner>
-		<repository-name>MineChain-Base</repository-name>
 		<github.global.server>github</github.global.server>
 	</properties>
 	<distributionManagement>
